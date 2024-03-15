@@ -1,0 +1,4 @@
+Flask==2.0.1
+azure-core==1.18.0
+azure-search-documents==11.2.0
+python-dotenv==0.19.2
